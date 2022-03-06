@@ -7,7 +7,7 @@ Converts `.obj` files into desmos expressions
 Download the executable from the
 [releases page](https://github.com/Cyborus04/obj2desmos/releases), run
 `obj2desmos path/to/model.obj`, then copy the printed string into a new
-expression on [this desmos file](https://www.desmos.com/calculator/wmdonj2q9c)
+expression on [this desmos graph](https://www.desmos.com/calculator/64qkqerx8p)
 
 ## License
 
